@@ -58,15 +58,7 @@ header{
     
 }
 
-header.shadow{
-    background: var(--bg-color);
-    box-shadow: 0 1px 4px hsl(0 4% 14% / 10%);
-    transition: .5s;
-}
 
-header.shadow .logo{
-    color: var(--text-color);
-}
 
 .nav{
     display: flex;
@@ -250,7 +242,7 @@ header.shadow .logo{
 
 .post-description{
     background: black;
-    color: #ff0000;
+    color:#8b8b8b;
     font-size: 0.9rem;
     line-height: 1.5rem;
     margin: 5px 0 10px;
@@ -278,7 +270,7 @@ header.shadow .logo{
 
 .profile-name{
     background: black;
-    color: red;
+    color: rgb(84, 0, 0);
     font-size: .8rem;
     font-weight: 500;
 }

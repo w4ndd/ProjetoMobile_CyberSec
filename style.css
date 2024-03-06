@@ -122,6 +122,7 @@ header.shadow .logo{
 }
 
 .about{
+    margin-top: 30px;
     position: relative;
     width: 100%;
     display: flex !important;
@@ -137,6 +138,7 @@ header.shadow .logo{
 }
 
 .titleText{
+    margin-top: 25px;
     font-weight: 600;
     color: #ff0000;
     font-size: 2rem;
@@ -202,14 +204,14 @@ header.shadow .logo{
 }
 
 .post-box{
-    background: rgb(84, 84, 84);
+    background: rgb(0, 0, 0);
     box-shadow: 0 4px 14px hsl(35deg 25% 15% / 10%);
     padding: 15px;
     border-radius: 0.5rem;
 }
 
 .post-img{
-    background: rgb(84, 84, 84);
+    background: rgb(255, 255, 255);
     width: 100%;
     height: 200px;
     object-fit: cover;
@@ -218,7 +220,7 @@ header.shadow .logo{
 }
 
 .category{
-    background: rgb(84, 84, 84);
+    background: black;
     font-size: 0.9rem;
     font-weight: 500;
     text-transform: uppercase;
@@ -226,7 +228,7 @@ header.shadow .logo{
 }
 
 .post-title{
-    background: rgb(84, 84, 84);
+    background: black;
     font-size: 1.3rem;
     font-weight: 600;
     color: var(--text-color);
@@ -237,8 +239,8 @@ header.shadow .logo{
 }
 
 .post-date{
-    background: rgb(84, 84, 84);
-    color:#04ff00;
+    background: black;
+    color:#ff0000;
     display: flex;
     font-size: 0.875rem;
     text-transform: uppercase;
@@ -247,8 +249,8 @@ header.shadow .logo{
 }
 
 .post-description{
-    background: rgb(84, 84, 84);
-    color: #04ff00;
+    background: black;
+    color: #ff0000;
     font-size: 0.9rem;
     line-height: 1.5rem;
     margin: 5px 0 10px;
@@ -259,7 +261,7 @@ header.shadow .logo{
 }
 
 .profile{
-    background: rgb(84, 84, 84);
+    background: black;
     display: flex;
     align-items: center;
     gap: 10px;
@@ -275,7 +277,8 @@ header.shadow .logo{
 }
 
 .profile-name{
-    background: rgb(84, 84, 84);
+    background: black;
+    color: red;
     font-size: .8rem;
     font-weight: 500;
 }
@@ -286,7 +289,7 @@ footer{
     height: auto;
     padding: 50px 100px;
     margin-top: 3rem;
-    background: #111;
+    background:rgb(36, 36, 36);
     display: flex;
     font-family: sans-serif;
     justify-content: space-between;
@@ -309,7 +312,7 @@ footer{
 
 .footer-container h2{
     position: relative;
-    color: #fff;
+    color: #ff0000;
     margin-bottom: 15px;
 }
 
@@ -320,11 +323,11 @@ footer{
     left: 0;
     width: 50px;
     height: 2px;
-    background: rgb(93, 212, 66);
+    background: rgb(157, 19, 19);
 }
 
 footer p{
-    color: #fff;
+    color: #818181;
 }
 
 .sci{

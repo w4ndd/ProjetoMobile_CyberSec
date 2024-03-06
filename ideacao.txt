@@ -1,0 +1,7 @@
+Site principal irão ter postagens de artigos e estudos, roadmaps e etc
+Todos focados em cyber-security, os autores dos mesmos irao estar no rodape das postagens
+Com o mesmo nickname do forum
+que é acessado a partir do singup e vai pra outro area totalmente diferente
+onde tera a comunidade aberta para compartilhamento de conhecimento
+e lá será uma estrutura padrão de forum.
+porem de lá que saira os artigos e pesquisas que serao postadas na area principal.
